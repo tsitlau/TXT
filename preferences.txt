@@ -1,0 +1,5 @@
+Favorite movie: The Shawshank Redemption
+Favorite series: The Beauty Inside
+Favorite food: pizza
+Favorite time of year: summer
+Country_I_want_to_visit: Japan
